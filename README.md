@@ -1,6 +1,6 @@
 ## Meet Rasheeq! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<img src="https://github.com/rasheeqqua/rasheeqqua/blob/main/githubprofile.png" width="512px" height="512px" alt="Rasheeq's Avatar">
+<img src="https://github.com/rasheeqqua/rasheeqqua/blob/main/githubprofile.png" width="720px" height="480px" alt="Rasheeq's Avatar">
 
 Rasheeq is a fresh nuclear engineering graduate. When he is not busy with his research work, he either invests his time to develop software for educational purposes or else to build interactive websites using modern frameworks. You can head to his [website](https://rasheeq.netlify.app/) to see some of his projects.
 
