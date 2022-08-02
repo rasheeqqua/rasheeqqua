@@ -2,9 +2,9 @@
 
 <img src="https://github.com/rasheeqqua/rasheeqqua/blob/main/githubprofile.png" width="720px" height="300px" alt="Rasheeq's Avatar">
 
-Rasheeq is a fresh nuclear engineering graduate. When he is not busy with his research work, he either invests his time to develop software for educational purposes or else to build interactive websites using modern frameworks. You can head to his [website](https://rasheeq.netlify.app/) to see some of his projects.
+#### Rasheeq is a fresh nuclear engineering graduate. When he is not busy with his research work, he either invests his time to develop software for educational purposes or else to build interactive websites using modern frameworks. You can head to his [website](https://rasheeq.netlify.app/) to see some of his projects.
 
-:mailbox: You can reach him out on:
+:mailbox: #### You can reach him out on:
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/hasibulhossain.rasheeq) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasheeqqua) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheeq) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheeq1018182@gmail.com)
 
